@@ -1,3 +1,6 @@
+#### 运行截图
+![cifar10](https://raw.githubusercontent.com/misads/cifar10_cnn/master/docs/cifar10.png)  
+
 　　学习率小时收敛速度反而快
 
 |model|learning_rate|batch|acc|
